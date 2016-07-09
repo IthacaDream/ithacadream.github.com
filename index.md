@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: INDEX
 tagline: Supporting tagline
 ---
 {% include JB/setup %}
